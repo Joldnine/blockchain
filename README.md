@@ -22,4 +22,7 @@ $ export FLASK_APP=blockchain.py
 $ flask run --port=5001
 ```
 ## How it works as a 'blockchain'
-TODO
+1. Transaction creation
+2. New block creation
+3. Proof of work
+4. Consensus (consistency) management
